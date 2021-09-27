@@ -1,0 +1,183 @@
+body{
+    background-color: darkcyan;
+}
+
+hr{
+    background-color: yellow; 
+    border: none;
+    height: 2px;
+}
+
+.Main1 {
+    border: 9px solid black;
+    background-color: gray;
+    width: 540px;
+    margin-left: 470px;
+    line-height: 2;
+    border-radius: 20px;
+    font-style: italic;
+    text-align: center;
+    color: yellowgreen;
+    box-shadow: maroon 10px 10px;
+    text-shadow: 2px 3px 4px maroon;
+}
+
+.Main2 {
+    border: 6px maroon solid;
+    height: 640px;
+    position: relative;
+}
+
+.First-box {
+    background-color: wheat;
+    color: rgb(169, 250, 6);
+    border: 10px solid black;
+    width: 230px;
+    height: 250px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: rgb(218, 3, 3) 15px 10px;
+    text-shadow: 2px 3px 4px rgb(247, 2, 2);
+    margin-left: 50px;
+    margin-top: 7px;
+}
+
+.Second-box {
+    border: 8px solid crimson;
+    background-color: whitesmoke;
+    position: absolute;
+    bottom: 364px;
+    right: 86px;
+    width: 230px;
+    height: 250px;
+    border-radius: 20px;
+    box-shadow: purple 10px 10px;
+    text-shadow: 2px 3px 4px purple;
+}
+
+.Image {
+    width: 200px;
+    height: 150px;
+    margin-top: 48px;
+    margin-left: 15px;
+}
+
+.Third-box {
+    border: 8px solid blue;
+    background-color: goldenrod;
+    border-radius: 20px;
+    position: absolute;
+    color: maroon;
+    width: 230px;
+    height: 250px;
+    top: 320px;
+    text-align: center;
+    box-shadow: yellow 15px 10px;
+    text-shadow: 2px 3px 4px yellow;
+    margin-left: 50px;
+}
+
+.Fourth-box {
+    border: 8px solid green;
+    background-color: powderblue;
+    border-radius: 20px;
+    position: absolute;
+    text-align: center;
+    color: blueviolet;
+    right: 83px;
+    top: 318px;
+    width: 230px;
+    height: 250px;
+    text-shadow: rgb(240, 9, 47) 2px 3px 4px;
+    box-shadow: pink 10px 10px;
+}
+
+
+.Blank {
+    margin-top: -20px;
+    color: hotpink;
+    border: 1px solid rgb(238, 8, 8);
+    width: 111px;
+    margin-left: 54px;
+    margin-top: -23px;
+    line-height: 20px;
+}
+
+.S1 {
+    margin-top: -20px;
+}
+
+.B1 {
+    border-radius: 23px;
+    background-color: yellowgreen;
+}
+
+.Main3 {
+    border: 7px darkgreen solid;
+    background-color: lightblue;
+    height: 500px;
+    width: 750px;
+    text-align: center;
+    position: relative;
+    top: 15px;
+    right: -353px;
+}
+
+.One-box {
+    margin-left: 3px;
+    border: 1px solid;
+    width: 377px;
+    height: 233px;
+    font-style: italic;
+    background-color: lightsalmon;
+    line-height: 33px;
+}
+
+.Two-box {
+    border: 1px solid;
+    width: 359px;
+    height: 233px;
+    font-style: italic;
+    background-color: lightseagreen;
+    line-height: 30px;
+    position: absolute;
+    top: 67px;
+    right: 3px;
+}
+
+.Three-box {
+    border: 1px solid;
+    width: 750px;
+    height: 185px;
+    font-style: italic;
+    background-color: white;
+    line-height: 30px;
+    position: absolute;
+    top: 307px;
+    right: -6px;
+}
+
+.Moveable {
+    left: 515px;
+    border: 8px solid lawngreen;
+    background-color: bisque;
+    font-style: italic;
+    width: 454px;
+    border-radius: 55px;
+    position: sticky;
+    padding-left: 34px;
+    bottom: 5px;
+    box-shadow: rgb(250, 0, 117) 7px 7px;
+}
+
+.M {
+    color: maroon;
+}
+
+.N {
+    position: absolute;
+    right: 20px;
+    top: 4px;
+    color: maroon;
+}
